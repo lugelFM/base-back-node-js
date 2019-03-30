@@ -70,4 +70,4 @@ typings/
 .serverless
 
 #test
-src/test
+/test
