@@ -1,7 +1,7 @@
 {
-  "name": "destra-backnodejs",
-  "version": "1.0.0",
-  "description": "Ter4 node-mysql-tsc baseline component",
+  "name": "ter4-base-backnodejs",
+  "version": "1.0.1",
+  "description": "base project for an aplication whit NodeJs + Express + MySql + TypeScript",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
